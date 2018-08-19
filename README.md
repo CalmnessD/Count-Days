@@ -1,2 +1,2 @@
 # count-days
-python code for count days of occasion
+python code for count days of an occasion

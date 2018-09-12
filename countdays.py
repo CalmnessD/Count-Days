@@ -17,7 +17,7 @@ if occasion_day > 1:
     print('The remaining days for your ' + occasion + ' are: ' + str(occasion_day) + ' days')
 elif occasion_day == 1:
     print('Be patient! your '+ occasion + ' will be Tomorrow')
-elif occasion_day < 1 and occasion_day == 0:
+elif occasion_day == 0:
     print('Congratulations! your ' + occasion + ' is Today!')
 else:
     print('Wrong date! try again please')
